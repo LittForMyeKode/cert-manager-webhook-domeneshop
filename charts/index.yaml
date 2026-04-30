@@ -9,6 +9,6 @@ entries:
     icon: https://domene.shop/svg/logo-no.svg
     name: cert-manager-webhook-domeneshop
     urls:
-    - https://blorptopia.github.io/cert-manager-webhook-domeneshop/cert-manager-webhook-domeneshop-1.0.0.tgz
+    - https://blorptopia.github.io/cert-manager-webhook-domeneshop/charts/cert-manager-webhook-domeneshop-1.0.0.tgz
     version: 1.0.0
 generated: "2026-04-30T10:27:21.124762743+02:00"
