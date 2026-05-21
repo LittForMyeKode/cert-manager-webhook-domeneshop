@@ -9,6 +9,6 @@ entries:
     icon: https://domene.shop/svg/logo-no.svg
     name: cert-manager-webhook-domeneshop
     urls:
-    - https://littformyekode.github.io/cert-manager-webhook-domeneshop/cert-manager-webhook-domeneshop-1.0.0.tgz
+    - https://littformyekode.github.io/cert-manager-webhook-domeneshop/charts/cert-manager-webhook-domeneshop-1.0.0.tgz
     version: 1.0.0
 generated: "2026-05-21T11:14:07.9137449+02:00"
